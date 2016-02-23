@@ -20,7 +20,7 @@ for (i=1; i<9999999999; i=i+2){
 		j = j + 2;
 	}
 }
-printf ("El valor de pi es: %f", pi);
+printf ("El valor de pi es: %1.52f", pi);
 
 	/* code */
 	return 0;
