@@ -1,8 +1,11 @@
 # Pi
 Calculo del valor de pi
+
 #include <stdio.h>
+
 #include <stdbool.h>
 #include <iso646.h>
+
 int main(int argc, char const *argv[]){
 	int i=0;
 	int j=0;
